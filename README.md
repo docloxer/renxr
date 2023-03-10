@@ -1,5 +1,4 @@
-# inse
-Crack Instagram 
+# mokazz
 
 # install
 git clone https://github.com/docloxer/renxr
